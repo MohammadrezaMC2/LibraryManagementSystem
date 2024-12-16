@@ -23,5 +23,5 @@ This is a simple Library Management System to manage books, users, staff, transa
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/LibraryManagementSystem.git
+git clone https://github.com/MohammadrezaMC2/LibraryManagementSystem
 cd LibraryManagementSystem
